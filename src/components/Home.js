@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Home = (p) => {
+const Home = (props) => {
  
-    const {num1 , arr1 }= p;
+    // const {num }= props;
     return (
         <div>
-            <h1>{num1} {arr1}</h1>
+           <input ></input>
         </div>
     )
 }
